@@ -10,4 +10,3 @@ Check
 check
 test
 subhashtest2
-test3
